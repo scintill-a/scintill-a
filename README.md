@@ -23,7 +23,7 @@
 > Control Systems • Signal Processing
 
 **CORE SYSTEMS**
-> Python • C++ • Linux (i3wm)
+> Python • C++ • Linux
 
 **FRONTEND INTERFACES**
 > React • Modern CSS
