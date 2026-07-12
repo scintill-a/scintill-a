@@ -23,7 +23,7 @@
 > Control Systems • Signal Processing • Machine Learning
 
 **CORE SYSTEMS**
-> Python • C++ • Linux
+> Python • C/C++ • Rust • Linux
 
 **FRONTEND INTERFACES**
 > React • Modern CSS
