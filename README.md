@@ -17,10 +17,10 @@
 ## // DOMAINS & EXPERTISE
 
 **ROBOTICS & SIMULATION**
-> ROS2 • MuJoCo • Gazebo  
+> ROS2 • Microcontrollers • MuJoCo • Gazebo  
 
 **CONTROL & SIGNALS**
-> Control Systems • Signal Processing
+> Control Systems • Signal Processing • Machine Learning
 
 **CORE SYSTEMS**
 > Python • C++ • Linux
