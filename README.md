@@ -1,7 +1,7 @@
 <div align="center">
 
 # SCINTILL-A
-### systems // robotics // interfaces
+### systems // robotics // signals
 
 <br>
 
@@ -11,24 +11,6 @@
 
 <br>
 </div>
-
----
-
-## // DOMAINS & EXPERTISE
-
-**ROBOTICS & SIMULATION**
-> ROS2 • Microcontrollers • MuJoCo • Gazebo  
-
-**CONTROL & SIGNALS**
-> Control Systems • Signal Processing • Machine Learning
-
-**CORE SYSTEMS**
-> Python • C/C++ • Linux
-
-**FRONTEND INTERFACES**
-> React • Modern CSS
-
----
 
 <div align="center">
   <sub>SECURE TERMINAL V1.0.4 // STATUS: NOMINAL</sub>
